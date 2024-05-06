@@ -2,7 +2,9 @@
 
 <h2>👨‍💻  Cyber Security Projects:</h2>
 
-- [Active Directory HomeLAb](https://github.com/DevKiris/LABURL)
+<h3>GRC project</h3>
+
+- [Information Security Policy](https://github.com/DevKiris/LABURL)
 
 <h2>  Certifications:</h2>
 
