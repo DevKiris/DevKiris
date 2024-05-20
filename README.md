@@ -8,7 +8,8 @@
 
 <h2>  Certifications:</h2>
 
-- Google Cybersecuity Professional (in_view)
+- Google Cybersecuity Professional ( Expected 09/24)
+- compTIA security++ (Expected 10/24)
 
 <h2>📺 Popular YouTube Videos</h2>
 
