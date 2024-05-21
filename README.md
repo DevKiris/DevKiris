@@ -4,7 +4,7 @@
 
 <h3>GRC project</h3>
 
-- [Information Security Policy](https://github.com/DevKiris/LABURL)
+- [Information Security Policy](https://github.com/DevKiris/Information-security-policy-1.0)
 
 <h2>  Certifications:</h2>
 
